@@ -1,0 +1,314 @@
+site_name: "Does Paul Contradict Jesus?"
+site_description: A comprehensive 22-study biblical investigation examining every major alleged contradiction between Paul and Jesus using evidence classification methodology.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Studies:
+
+    # ── Phase 1 -- Foundations ──
+    - "Phase 1 -- Foundations":
+
+      - "01 -- Does Paul Know Jesus's Teachings?":
+        - studies/pvj-01-paul-knows-jesus/conclusion-simple.md
+        - Conclusion: studies/pvj-01-paul-knows-jesus/CONCLUSION.md
+        - Analysis: studies/pvj-01-paul-knows-jesus/03-analysis.md
+        - Verses: studies/pvj-01-paul-knows-jesus/02-verses.md
+        - Word Studies: studies/pvj-01-paul-knows-jesus/04-word-studies.md
+        - Topics: studies/pvj-01-paul-knows-jesus/01-topics.md
+        - Research Scope: studies/pvj-01-paul-knows-jesus/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-01-paul-knows-jesus/raw-data/concept-context.md
+          - "Cross Testament Parallels": studies/pvj-01-paul-knows-jesus/raw-data/cross-testament-parallels.md
+          - "Nave's Topics": studies/pvj-01-paul-knows-jesus/raw-data/naves-topics.md
+          - "Prior Studies": studies/pvj-01-paul-knows-jesus/raw-data/prior-studies.md
+          - "Strong's Lookups": studies/pvj-01-paul-knows-jesus/raw-data/strongs-lookups.md
+      - "02 -- Paul's Authority and Apostleship":
+        - studies/pvj-02-paul-authority/conclusion-simple.md
+        - Conclusion: studies/pvj-02-paul-authority/CONCLUSION.md
+        - Analysis: studies/pvj-02-paul-authority/03-analysis.md
+        - Verses: studies/pvj-02-paul-authority/02-verses.md
+        - Word Studies: studies/pvj-02-paul-authority/04-word-studies.md
+        - Topics: studies/pvj-02-paul-authority/01-topics.md
+        - Research Scope: studies/pvj-02-paul-authority/PROMPT.md
+      - "03 -- Jesus's Audience vs Paul's Audience":
+        - studies/pvj-03-audience-differences/conclusion-simple.md
+        - Conclusion: studies/pvj-03-audience-differences/CONCLUSION.md
+        - Analysis: studies/pvj-03-audience-differences/03-analysis.md
+        - Verses: studies/pvj-03-audience-differences/02-verses.md
+        - Word Studies: studies/pvj-03-audience-differences/04-word-studies.md
+        - Topics: studies/pvj-03-audience-differences/01-topics.md
+        - Research Scope: studies/pvj-03-audience-differences/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-03-audience-differences/raw-data/concept-context.md
+          - "Nave's Topics": studies/pvj-03-audience-differences/raw-data/naves-topics.md
+      - "04 -- Greek Terms Baseline":
+        - studies/pvj-04-greek-terms-baseline/conclusion-simple.md
+        - Conclusion: studies/pvj-04-greek-terms-baseline/CONCLUSION.md
+        - Analysis: studies/pvj-04-greek-terms-baseline/03-analysis.md
+        - Verses: studies/pvj-04-greek-terms-baseline/02-verses.md
+        - Word Studies: studies/pvj-04-greek-terms-baseline/04-word-studies.md
+        - Topics: studies/pvj-04-greek-terms-baseline/01-topics.md
+        - Research Scope: studies/pvj-04-greek-terms-baseline/PROMPT.md
+
+    # ── Phase 2 -- Faith, Works, and Salvation ──
+    - "Phase 2 -- Faith, Works, and Salvation":
+
+      - "05 -- Faith and Works Definitions":
+        - studies/pvj-05-faith-works-definitions/conclusion-simple.md
+        - Conclusion: studies/pvj-05-faith-works-definitions/CONCLUSION.md
+        - Analysis: studies/pvj-05-faith-works-definitions/03-analysis.md
+        - Verses: studies/pvj-05-faith-works-definitions/02-verses.md
+        - Word Studies: studies/pvj-05-faith-works-definitions/04-word-studies.md
+        - Topics: studies/pvj-05-faith-works-definitions/01-topics.md
+        - Research Scope: studies/pvj-05-faith-works-definitions/PROMPT.md
+      - "06 -- Paul: Faith Apart from Works":
+        - studies/pvj-06-paul-faith-apart-works/conclusion-simple.md
+        - Conclusion: studies/pvj-06-paul-faith-apart-works/CONCLUSION.md
+        - Analysis: studies/pvj-06-paul-faith-apart-works/03-analysis.md
+        - Verses: studies/pvj-06-paul-faith-apart-works/02-verses.md
+        - Word Studies: studies/pvj-06-paul-faith-apart-works/04-word-studies.md
+        - Topics: studies/pvj-06-paul-faith-apart-works/01-topics.md
+        - Research Scope: studies/pvj-06-paul-faith-apart-works/PROMPT.md
+        - Raw Data:
+          - "Concept Context Results": studies/pvj-06-paul-faith-apart-works/raw-data/concept-context-results.md
+          - "Strongs Data": studies/pvj-06-paul-faith-apart-works/raw-data/strongs-data.md
+      - "07 -- Jesus: Keep the Commandments":
+        - studies/pvj-07-jesus-keep-commandments/conclusion-simple.md
+        - Conclusion: studies/pvj-07-jesus-keep-commandments/CONCLUSION.md
+        - Analysis: studies/pvj-07-jesus-keep-commandments/03-analysis.md
+        - Verses: studies/pvj-07-jesus-keep-commandments/02-verses.md
+        - Word Studies: studies/pvj-07-jesus-keep-commandments/04-word-studies.md
+        - Topics: studies/pvj-07-jesus-keep-commandments/01-topics.md
+        - Research Scope: studies/pvj-07-jesus-keep-commandments/PROMPT.md
+      - "08 -- James vs Paul: Faith Without Works":
+        - studies/pvj-08-james-faith-without-works/conclusion-simple.md
+        - Conclusion: studies/pvj-08-james-faith-without-works/CONCLUSION.md
+        - Analysis: studies/pvj-08-james-faith-without-works/03-analysis.md
+        - Verses: studies/pvj-08-james-faith-without-works/02-verses.md
+        - Word Studies: studies/pvj-08-james-faith-without-works/04-word-studies.md
+        - Topics: studies/pvj-08-james-faith-without-works/01-topics.md
+        - Research Scope: studies/pvj-08-james-faith-without-works/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/pvj-08-james-faith-without-works/raw-data/greek-parsing.md
+
+    # ── Phase 3 -- The Law ──
+    - "Phase 3 -- The Law":
+
+      - "09 -- Not Under Law vs Not to Destroy":
+        - studies/pvj-09-not-under-law-vs-not-destroy/conclusion-simple.md
+        - Conclusion: studies/pvj-09-not-under-law-vs-not-destroy/CONCLUSION.md
+        - Analysis: studies/pvj-09-not-under-law-vs-not-destroy/03-analysis.md
+        - Verses: studies/pvj-09-not-under-law-vs-not-destroy/02-verses.md
+        - Word Studies: studies/pvj-09-not-under-law-vs-not-destroy/04-word-studies.md
+        - Topics: studies/pvj-09-not-under-law-vs-not-destroy/01-topics.md
+        - Research Scope: studies/pvj-09-not-under-law-vs-not-destroy/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-09-not-under-law-vs-not-destroy/raw-data/concept-context.md
+          - "Greek Parsing": studies/pvj-09-not-under-law-vs-not-destroy/raw-data/greek-parsing.md
+      - "10 -- Schoolmaster vs Jot and Tittle":
+        - studies/pvj-10-schoolmaster-vs-jot-tittle/conclusion-simple.md
+        - Conclusion: studies/pvj-10-schoolmaster-vs-jot-tittle/CONCLUSION.md
+        - Analysis: studies/pvj-10-schoolmaster-vs-jot-tittle/03-analysis.md
+        - Verses: studies/pvj-10-schoolmaster-vs-jot-tittle/02-verses.md
+        - Word Studies: studies/pvj-10-schoolmaster-vs-jot-tittle/04-word-studies.md
+        - Topics: studies/pvj-10-schoolmaster-vs-jot-tittle/01-topics.md
+        - Research Scope: studies/pvj-10-schoolmaster-vs-jot-tittle/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-10-schoolmaster-vs-jot-tittle/raw-data/concept-context.md
+          - "Existing Studies": studies/pvj-10-schoolmaster-vs-jot-tittle/raw-data/existing-studies.md
+          - "Greek Parsing": studies/pvj-10-schoolmaster-vs-jot-tittle/raw-data/greek-parsing.md
+      - "11 -- Food Laws: Clean and Unclean":
+        - studies/pvj-11-food-laws/conclusion-simple.md
+        - Conclusion: studies/pvj-11-food-laws/CONCLUSION.md
+        - Analysis: studies/pvj-11-food-laws/03-analysis.md
+        - Verses: studies/pvj-11-food-laws/02-verses.md
+        - Word Studies: studies/pvj-11-food-laws/04-word-studies.md
+        - Topics: studies/pvj-11-food-laws/01-topics.md
+        - Research Scope: studies/pvj-11-food-laws/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-11-food-laws/raw-data/concept-context.md
+          - "Greek Parsing": studies/pvj-11-food-laws/raw-data/greek-parsing.md
+      - "12 -- Circumcision":
+        - studies/pvj-12-circumcision/conclusion-simple.md
+        - Conclusion: studies/pvj-12-circumcision/CONCLUSION.md
+        - Analysis: studies/pvj-12-circumcision/03-analysis.md
+        - Verses: studies/pvj-12-circumcision/02-verses.md
+        - Word Studies: studies/pvj-12-circumcision/04-word-studies.md
+        - Topics: studies/pvj-12-circumcision/01-topics.md
+        - Research Scope: studies/pvj-12-circumcision/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-12-circumcision/raw-data/concept-context.md
+          - "Existing Studies": studies/pvj-12-circumcision/raw-data/existing-studies.md
+          - "Strong's Lookups": studies/pvj-12-circumcision/raw-data/strongs-lookups.md
+      - "13 -- Christ the Telos of the Law":
+        - studies/pvj-13-telos-of-the-law/conclusion-simple.md
+        - Conclusion: studies/pvj-13-telos-of-the-law/CONCLUSION.md
+        - Analysis: studies/pvj-13-telos-of-the-law/03-analysis.md
+        - Verses: studies/pvj-13-telos-of-the-law/02-verses.md
+        - Word Studies: studies/pvj-13-telos-of-the-law/04-word-studies.md
+        - Topics: studies/pvj-13-telos-of-the-law/01-topics.md
+        - Research Scope: studies/pvj-13-telos-of-the-law/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-13-telos-of-the-law/raw-data/concept-context.md
+          - "Greek Parsing": studies/pvj-13-telos-of-the-law/raw-data/greek-parsing.md
+          - "Strong's Lookups": studies/pvj-13-telos-of-the-law/raw-data/strongs-lookups.md
+
+    # ── Phase 4 -- Specific Issues ──
+    - "Phase 4 -- Specific Issues":
+
+      - "14 -- Women: Silence vs Jesus's Practice":
+        - studies/pvj-14-women-silence-vs-jesus-women/conclusion-simple.md
+        - Conclusion: studies/pvj-14-women-silence-vs-jesus-women/CONCLUSION.md
+        - Analysis: studies/pvj-14-women-silence-vs-jesus-women/03-analysis.md
+        - Verses: studies/pvj-14-women-silence-vs-jesus-women/02-verses.md
+        - Word Studies: studies/pvj-14-women-silence-vs-jesus-women/04-word-studies.md
+        - Topics: studies/pvj-14-women-silence-vs-jesus-women/01-topics.md
+        - Research Scope: studies/pvj-14-women-silence-vs-jesus-women/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-14-women-silence-vs-jesus-women/raw-data/concept-context.md
+          - "Greek Parsing": studies/pvj-14-women-silence-vs-jesus-women/raw-data/greek-parsing.md
+      - "15 -- Gentile Mission":
+        - studies/pvj-15-gentile-mission/conclusion-simple.md
+        - Conclusion: studies/pvj-15-gentile-mission/CONCLUSION.md
+        - Analysis: studies/pvj-15-gentile-mission/03-analysis.md
+        - Verses: studies/pvj-15-gentile-mission/02-verses.md
+        - Word Studies: studies/pvj-15-gentile-mission/04-word-studies.md
+        - Topics: studies/pvj-15-gentile-mission/01-topics.md
+        - Research Scope: studies/pvj-15-gentile-mission/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-15-gentile-mission/raw-data/concept-context.md
+          - "Cross-Testament Parallels": studies/pvj-15-gentile-mission/raw-data/parallels.md
+          - "Strong's Lookups": studies/pvj-15-gentile-mission/raw-data/strongs-lookups.md
+      - "16 -- Marriage and Celibacy":
+        - studies/pvj-16-marriage-celibacy/conclusion-simple.md
+        - Conclusion: studies/pvj-16-marriage-celibacy/CONCLUSION.md
+        - Analysis: studies/pvj-16-marriage-celibacy/03-analysis.md
+        - Verses: studies/pvj-16-marriage-celibacy/02-verses.md
+        - Word Studies: studies/pvj-16-marriage-celibacy/04-word-studies.md
+        - Topics: studies/pvj-16-marriage-celibacy/01-topics.md
+        - Research Scope: studies/pvj-16-marriage-celibacy/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-16-marriage-celibacy/raw-data/concept-context.md
+          - "Cross-Testament Parallels": studies/pvj-16-marriage-celibacy/raw-data/parallels.md
+      - "17 -- All Things Lawful vs Sermon on Mount":
+        - studies/pvj-17-all-things-lawful/conclusion-simple.md
+        - Conclusion: studies/pvj-17-all-things-lawful/CONCLUSION.md
+        - Analysis: studies/pvj-17-all-things-lawful/03-analysis.md
+        - Verses: studies/pvj-17-all-things-lawful/02-verses.md
+        - Word Studies: studies/pvj-17-all-things-lawful/04-word-studies.md
+        - Topics: studies/pvj-17-all-things-lawful/01-topics.md
+        - Research Scope: studies/pvj-17-all-things-lawful/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-17-all-things-lawful/raw-data/concept-context.md
+          - "Existing Studies": studies/pvj-17-all-things-lawful/raw-data/existing-studies.md
+          - "Cross-Testament Parallels": studies/pvj-17-all-things-lawful/raw-data/parallels.md
+      - "18 -- Government Submission":
+        - studies/pvj-18-government-submission/conclusion-simple.md
+        - Conclusion: studies/pvj-18-government-submission/CONCLUSION.md
+        - Analysis: studies/pvj-18-government-submission/03-analysis.md
+        - Verses: studies/pvj-18-government-submission/02-verses.md
+        - Word Studies: studies/pvj-18-government-submission/04-word-studies.md
+        - Topics: studies/pvj-18-government-submission/01-topics.md
+        - Research Scope: studies/pvj-18-government-submission/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-18-government-submission/raw-data/concept-context.md
+      - "19 -- Eschatology and Imminent Return":
+        - studies/pvj-19-eschatology-imminent-return/conclusion-simple.md
+        - Conclusion: studies/pvj-19-eschatology-imminent-return/CONCLUSION.md
+        - Analysis: studies/pvj-19-eschatology-imminent-return/03-analysis.md
+        - Verses: studies/pvj-19-eschatology-imminent-return/02-verses.md
+        - Word Studies: studies/pvj-19-eschatology-imminent-return/04-word-studies.md
+        - Topics: studies/pvj-19-eschatology-imminent-return/01-topics.md
+        - Research Scope: studies/pvj-19-eschatology-imminent-return/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-19-eschatology-imminent-return/raw-data/concept-context.md
+          - "Greek Parsing": studies/pvj-19-eschatology-imminent-return/raw-data/greek-parsing.md
+          - "Cross-Testament Parallels": studies/pvj-19-eschatology-imminent-return/raw-data/parallels.md
+
+    # ── Phase 5 -- Synthesis ──
+    - "Phase 5 -- Synthesis":
+
+      - "20 -- Where Paul Agrees with Jesus":
+        - studies/pvj-20-paul-agrees-with-jesus/conclusion-simple.md
+        - Conclusion: studies/pvj-20-paul-agrees-with-jesus/CONCLUSION.md
+        - Verses: studies/pvj-20-paul-agrees-with-jesus/02-verses.md
+        - Research Scope: studies/pvj-20-paul-agrees-with-jesus/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/pvj-20-paul-agrees-with-jesus/raw-data/concept-context.md
+      - "21 -- Patterns Across All Contradictions":
+        - studies/pvj-21-patterns-of-contradiction/conclusion-simple.md
+        - Conclusion: studies/pvj-21-patterns-of-contradiction/CONCLUSION.md
+      - "22 -- Comprehensive Verdict":
+        - studies/pvj-22-comprehensive-verdict/conclusion-simple.md
+        - Conclusion: studies/pvj-22-comprehensive-verdict/CONCLUSION.md
+        - Research Scope: studies/pvj-22-comprehensive-verdict/PROMPT.md
+
+  - Methodology: methodology.md
+  - "Tools & Process": tools.md
+  - "Master Evidence": master-evidence.md

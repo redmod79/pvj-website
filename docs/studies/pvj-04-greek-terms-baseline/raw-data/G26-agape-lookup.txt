@@ -1,0 +1,43 @@
+
+G26 - 84 total occurrences, 15 unique translations:
+
+    45 ( 53.6%) ##########################                         love
+    21 ( 25.0%) ############                                       charity
+     4 (  4.8%) ##                                                 of love
+     2 (  2.4%) #                                                  Charity
+     2 (  2.4%) #                                                  the love
+     1 (  1.2%)                                                    Love
+     1 (  1.2%)                                                    charitably
+     1 (  1.2%)                                                    after charity
+     1 (  1.2%)                                                    dear
+     1 (  1.2%)                                                    in love
+     1 (  1.2%)                                                    in charity
+     1 (  1.2%)                                                    love's
+     1 (  1.2%)                                                    unto love
+     1 (  1.2%)                                                    of charity
+     1 (  1.2%)                                                    feasts of charity
+
+============================================================
+  G26: ἀγάπη
+============================================================
+  Transliteration: agápē
+  Pronunciation:   ag-ah
+  Part of Speech:  feminine noun (n-f)
+  BLB Count:       117
+
+  Definition:
+    -pay; from ; love, i.e. affection or benevolence; specially (plural) a
+
+  Outline of Biblical Usage:
+    2 Samuel 13:15 Ecclesiastes 9:1 ; 9:6 Song of Songs 2:4 ; 2:5 ; 2:7 ;
+    3:5 ; 3:10 ; 5:8 ; 7:6 ; 8:4 ; 8:6 ; 8:7 Jeremiah 2:2 Matthew 24:12 Luke
+    11:42 John 5:42 ; 13:35 ; 15:9 ; 15:10 ; 15:13 ; 17:26 ; 17:26 Acts 2:42
+    ; 2:46 ; 20:7 Romans 5:8 ; 8:35 ; 8:39 ; 13:10 ; 14:15 ; 15:30 1
+    Corinthians 4:21 ; 11:17 ; 13:1 ; 13:2 ; 13:3 ; 13:4 ; 13:8 ; 13:13 ;
+    14:1 ; 16:24 2 Corinthians 2:4 ; 2:4 ; 2:8 ; 5:14 ; 8:7 ; 13:11 ; 13:13
+    Galatians 5:6 Ephesians 1:15 ; 2:4 ; 3:19 ; 4:15 ; 4:16 Philippians 1:17
+    (16) Colossians 1:4 ; 1:4 ; 1:13 1 Thessalonians 1:3 ; 1:3 ; 5:8 2
+    Thessalonians 2:10 1 Timothy 1:5 Philemon 1:5 ; 1:7 ; 1:9 ; 1:14 Hebrews
+    6:10 ; 10:22 ; 10:23 ; 10:24 ; 10:24 1 Peter 4:8 ; 5:14 2 Peter 2:13 1
+    John 2:15 ; 3:1 ; 3:17 ; 4:7 ; 4:8 ; 4:12 ; 4:16 ; 4:17 ; 4:18 ; 5:3
+    Jude 1:12 Revelation 2:4 ; 2:19

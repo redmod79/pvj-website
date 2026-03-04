@@ -1,0 +1,12 @@
+study_id: pvj-07
+series: pvj
+title: "Jesus: Keep the Commandments / Do the Will of My Father"
+date: 2026-03-03
+cli: Claude Code
+version: 2.1.66
+model: claude-opus-4-6
+skill: bible-study2
+platform: windows
+depends_on:
+  - pvj-04
+  - pvj-05
