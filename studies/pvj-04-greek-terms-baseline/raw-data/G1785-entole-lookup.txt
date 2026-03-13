@@ -1,0 +1,32 @@
+
+G1785 - 43 total occurrences, 8 unique translations:
+
+    23 ( 53.5%) ##########################                         commandment
+    12 ( 27.9%) #############                                      commandments
+     2 (  4.7%) ##                                                 precept
+     2 (  4.7%) ##                                                 a commandment
+     1 (  2.3%) #                                                  of the commandments
+     1 (  2.3%) #                                                  the commandments
+     1 (  2.3%) #                                                  of commandments
+     1 (  2.3%) #                                                  of the commandment
+
+============================================================
+  G1785: ἐντολή
+============================================================
+  Transliteration: entolḗ
+  Pronunciation:   en-tol-ay
+  Part of Speech:  feminine noun (n-f)
+  BLB Count:       71
+
+  Definition:
+    ; from ; injunction, i.e. an authoritative
+
+  Outline of Biblical Usage:
+    Matthew 4:19 ; 15:3 ; 15:6 ; 19:17 ; 22:36 ; 22:38 ; 22:40 Mark 7:8 ;
+    10:5 ; 10:19 ; 12:28 Luke 1:6 ; 15:29 ; 18:20 ; 23:56 John 10:18 ; 11:57
+    ; 12:49 ; 12:50 ; 13:34 ; 14:15 ; 14:21 ; 14:31 ; 15:10 ; 15:10 ; 15:12
+    Acts 17:15 Romans 7:8 ; 7:9 ; 7:10 ; 7:11 ; 7:12 ; 7:13 ; 13:9 1
+    Corinthians 7:19 ; 14:37 Ephesians 2:15 ; 6:2 Colossians 4:10 1 Timothy
+    6:14 Titus 1:14 Hebrews 7:5 ; 7:16 ; 7:18 ; 9:19 2 Peter 2:21 ; 3:2 1
+    John 2:3 ; 2:7 ; 3:22 ; 3:23 ; 3:23 ; 3:23 ; 3:24 ; 4:21 ; 4:21 ; 5:2 ;
+    5:3 2 John 1:4 ; 1:5 ; 1:6 Revelation 12:17 ; 14:12 ; 22:14

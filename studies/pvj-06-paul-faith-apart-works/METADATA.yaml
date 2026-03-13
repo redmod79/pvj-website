@@ -1,0 +1,11 @@
+cli: Claude Code
+version: 2.1.66
+model: claude-opus-4-6
+skill: bible-study2
+date: 2026-03-03
+platform: windows
+series: pvj
+study_id: pvj-06
+depends_on:
+  - pvj-04
+  - pvj-05

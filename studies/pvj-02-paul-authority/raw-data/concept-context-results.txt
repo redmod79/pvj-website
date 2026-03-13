@@ -1,0 +1,28 @@
+CONCEPT CONTEXT RESULTS (--scope author)
+
+=== GAL 1:1 ===
+Concepts: MESSIAH (G5547), RESURRECTION (G1453)
+Same-author matches with both concepts: 1 Cor 15:12-17,20, 1 Thess 4:16, 2 Tim 2:8, Eph 1:20
+
+=== GAL 1:12 ===
+Concepts: MESSIAH (G5547)
+Same-author notable: 1 Cor 1:1 (apostle of Jesus Christ), 1 Cor 1:17 (Christ sent me to preach)
+
+=== GAL 2:7 ===
+Concepts: CIRCUMCISION (G203, G4061), FAITH (G4100)
+Same-author: Rom 3:30, 4:9,11,12 (circumcision/faith in Abraham), Gal 5:6 (neither circumcision nor uncircumcision)
+
+=== ROM 2:16 ===
+Concepts: JUDGMENT (G2919), MESSIAH (G5547)
+Same-author: 2 Tim 4:1 (Christ shall judge quick and dead), Rom 14:10 (judgment seat of Christ)
+
+=== 2PE 3:16 ===
+No theological concepts found (tool returned empty)
+
+=== 1CO 9:1 ===
+Concepts: MESSIAH (G5547)
+Same-author: 1 Cor 9:12,18 (gospel of Christ), 1 Cor 1:1 (apostle of Christ)
+
+=== ACT 9:15 ===
+Concepts: ELECT (G1589), KINGDOM (G935), KING (G935)
+Same-author (Luke): Luke 1:33 (kingdom), Acts 1:2 (apostles chosen)

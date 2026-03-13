@@ -1,0 +1,8 @@
+CONCEPT CONTEXT: Matthew 7:21 --scope author
+Concepts: WORD (G3004), KINGDOM (G932)
+
+Same chapter: Mat 7:24 [WORD], 7:26 [WORD], 7:28 [WORD]
+
+Same book top hits: Mat 10:7 [KINGDOM, WORD], 11:11, 13:19, 13:24, 13:31, 16:28, 17:25, 18:1, 18:23, 18:3
+
+NOTE: The tool did not detect pistis/ergon/nomos concepts in Mat 7:21 because Jesus uses different vocabulary ("doeth the will of my Father") not the technical Greek theological terms Paul uses.

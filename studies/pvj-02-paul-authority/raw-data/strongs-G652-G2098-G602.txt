@@ -1,0 +1,20 @@
+STRONG'S G652: apostolos
+  Transliteration: apostolos
+  Part of Speech: masculine noun
+  Definition: a delegate; specially, an ambassador of the Gospel
+  BLB Count: 81
+  Key NT refs: Mat 10:2, Luk 6:13, Acts 1:26, Rom 1:1, 1 Cor 9:1, 1 Cor 15:9, 2 Cor 11:5, 12:12, Gal 1:1, Eph 4:11
+
+STRONG'S G2098: euangelion
+  Transliteration: euangelion
+  Part of Speech: neuter noun
+  Definition: a good message, i.e. the gospel
+  BLB Count: 77
+  Key Pauline refs: Rom 1:1,16, 2:16, 16:25, 1 Cor 9:12,14,18,23, 15:1, 2 Cor 4:3-4, 11:4, Gal 1:6-7,11, 2:2,5,7,14, 2 Tim 2:8
+
+STRONG'S G602: apokalypsis
+  Transliteration: apokalypsis
+  Part of Speech: feminine noun
+  Definition: disclosure; appearing, coming, manifestation, revelation
+  BLB Count: 18
+  Key refs: Rom 2:5, 8:19, 16:25, 1 Cor 1:7, 14:6,26, 2 Cor 12:1, Gal 1:12, 2:2, Eph 1:17, 3:3, 1 Pet 1:7,13, Rev 1:1
