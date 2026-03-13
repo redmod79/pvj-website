@@ -143,3 +143,4 @@ These companion sites use the same tool-driven research methodology:
 | [**Genesis 6: The "Sons of God" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the "sons of God" in Genesis 6:1-4? A 10-part report examining the angel view vs. the godly human view. |
 | [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law. |
 | [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. |
+| [**The Historicist Proof**](https://redmod79.github.io/hist-website/) | A 19-study investigation examining whether Daniel and Revelation describe continuous history from the prophet's time to the second coming. 496 evidence items classified. |
