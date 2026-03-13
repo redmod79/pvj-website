@@ -7,6 +7,7 @@ copies files into docs/studies/, generates mkdocs.yml and index.md,
 and copies shared assets from etc-website.
 """
 
+import json
 import os
 import re
 import shutil
@@ -458,18 +459,20 @@ def generate_index_md():
     content.append("")
     content.append("---")
     content.append("")
-    content.append("## Related Studies")
-    content.append("")
-    content.append("These companion sites use the same tool-driven research methodology:")
-    content.append("")
-    content.append("| Site | Description |")
-    content.append("|------|-------------|")
-    content.append("| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |")
-    content.append("| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. |")
-    content.append("| [**Genesis 6: The \"Sons of God\" Question**](https://redmod79.github.io/genesis-6-website/) | Who are the \"sons of God\" in Genesis 6:1-4? A 10-part report examining the angel view vs. the godly human view. |")
-    content.append("| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law. |")
-    content.append("| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. |")
-    content.append("| [**The Historicist Proof**](https://redmod79.github.io/hist-website/) | A 19-study investigation examining whether Daniel and Revelation describe continuous history from the prophet's time to the second coming. 496 evidence items classified. |")
+    # Related Studies — read from shared hub-website/related-studies.json
+    links_file = Path("D:/bible/hub-website/related-studies.json")
+    if links_file.exists():
+        links = json.loads(links_file.read_text(encoding="utf-8"))
+        content.append("## Related Studies")
+        content.append("")
+        content.append("These companion sites use the same tool-driven research methodology:")
+        content.append("")
+        content.append("| Site | Description |")
+        content.append("|------|-------------|")
+        for entry in links:
+            if entry["id"] == "pvj":
+                continue
+            content.append(f"| [**{entry['name']}**]({entry['url']}) | {entry['description']} |")
 
     index_path = DOCS / "index.md"
     index_path.write_text("\n".join(content) + "\n", encoding="utf-8")
