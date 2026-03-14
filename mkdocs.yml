@@ -3,6 +3,7 @@ site_description: A comprehensive 22-study biblical investigation examining ever
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: deep purple

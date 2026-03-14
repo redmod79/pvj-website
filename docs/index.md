@@ -3,10 +3,6 @@
 *A comprehensive 22-study biblical investigation examining every major alleged contradiction between Paul and Jesus -- faith vs works, the law, food laws, circumcision, women's roles, the Gentile mission, and more.*
 
 ---
-
-!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
-    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
-
 ## The Question
 
 Many people claim that Paul contradicts Jesus. Paul says "justified by faith apart from works" while Jesus says "keep the commandments." Paul says "not under the law" while Jesus says "not one jot shall pass from the law." Paul says "let women keep silence" while Jesus freely taught women. Are these genuine contradictions, or do they dissolve when context, audience, vocabulary, and scope are properly accounted for? This series investigates 15 specific alleged contradictions using tool-driven biblical research.
